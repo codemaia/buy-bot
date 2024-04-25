@@ -1,0 +1,5 @@
+requests
+BeautifulSoup
+telegram
+Bot
+asyncio
