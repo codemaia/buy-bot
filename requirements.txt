@@ -1,5 +1,6 @@
 requests
-BeautifulSoup
+beautifulsoup4
 telegram
-Bot
 asyncio
+python-telegram-bot
+botcity-maestro-sdk
